@@ -13,11 +13,11 @@ en biologie
 
 ## Travaux
 
-— Apprentissage statistique
-— Statistique exploratoire multidimensionnelle
-— Statistiques en grandes dimensions
-— Science des données numériques
-— Apprentissage statistique et analyse descriptive
+- Apprentissage statistique
+- Statistique exploratoire multidimensionnelle
+- Statistiques en grandes dimensions
+- Science des données numériques
+- Apprentissage statistique et analyse descriptive
 - Deep Learning
 
 ## Outils
