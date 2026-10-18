@@ -1,15 +1,15 @@
 # Joshua MAAT
 
-Étudiant en Master 2 Matthématiques : Science des données à L'Université Sorbonne Paris Nord.
+Étudiant en Master 2 Mathématiques : Science des données à L'Université Sorbonne Paris Nord.
 Je recherche un stage de fin d'études de 6 mois à partir de mars/avril,
 en modélisation statistique et machine learning dans le domaine de la biologie.
 
 ## Mémoires
 
-- Analyse en Composantes Principales (ACP)
+- Analyse en Composantes Principales (ACP) (2026)
 - Approfondissement théorique des chaînes de Markov et de leurs applications
-en biologie
-- La géométrie dans l'espace et les sections planes
+en biologie (2025)
+- La géométrie dans l'espace et les sections planes (2024)
 
 ## Travaux
 
