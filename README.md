@@ -30,5 +30,5 @@ Travaux pratiques du M2 : [m2-math-science-des-donnees](https://github.com/MAAT-
 - LaTeX
 
 ## Contact
-- Email : [joshuamaat@icloud.com]
-- LinkedIn : [www.linkedin.com/in/joshua-maat-b565b3439]
+- Email : joshuamaat@icloud.com
+- LinkedIn : www.linkedin.com/in/joshua-maat-b565b3439
