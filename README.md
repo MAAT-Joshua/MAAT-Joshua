@@ -28,5 +28,5 @@ en biologie
 - C
 
 ## Contact
-- Email : [Joshuamaat@icloud.com]
+- Email : [joshuamaat@icloud.com]
 - LinkedIn : [www.linkedin.com/in/joshua-maat-b565b3439]
